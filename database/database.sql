@@ -57,3 +57,4 @@ VALUES (
     '$2b$10$BUZafE838e9ofV8ozj.i3eikxDIDve5O/cvkQdo755UcuxM6stTV2',
     'EMPLOYEE'
 );
+
